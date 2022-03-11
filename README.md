@@ -2,11 +2,15 @@
 
 ### Conteúdo & acesso
 * Um projeto elaborado para fins educacionais de aplicação de modelos de classificação
-* O dataset original retirado do [Kaggle](https://www.kaggle.com/prathamtripathi/drug-classification) 
+* O dataset original retirado do [Kaggle](https://www.kaggle.com/prathamtripathi/drug-classification)
 * Para ter acesso ao notebook na íntegra:
-    - Após abrí-lo no GitHub, clique em 'abrir com o colab'; 
-    - Realizar a cópia por meio do Raw, salvando com formato .ipynb;
+    - Após abrí-lo no GitHub, clique em 'abrir com o colab'
+    - Realizar a cópia por meio do Raw, salvando com formato .ipynb
     - Realizar acesso pelo link web
+
+### Objetivo
+* Buscar insigths sobre os fatores que auxiliam na escolha da droga a partir da análise exploratória dos dados
+* Construir um modelo classifcatório que utilize as features e consiga prever adequadamente a recomendação do tipo de droga para tratamento
     
 ### Estrutura do projeto
 * README.md
@@ -32,10 +36,6 @@
   - Testing scenarios
 * Conclusion & Next steps
 * References
-
-### Objetivo
-* Buscar insigths sobre os fatores que auxiliam na escolha da droga a partir da análise exploratória dos dados 
-* Construir um modelo classifcatório que utilize as features e consiga prever adequadamente a recomendação do tipo de droga para tratamento
 
 ### Ambiente
 * Python
