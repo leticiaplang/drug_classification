@@ -5,7 +5,8 @@ README traduzido para Português/BR [aqui](https://github.com/leticiaplang/drug_
 ### Project structure
 * README.md
 * README_ptBR.md
-* drug_classification.ipynb (notebook)
+* drug_classification.ipynb (english notebook)
+* drug_classification_pt.ipynb (portuguese notebook - english code and graphs)
 * drug_200.csv (dataset)
 
 
