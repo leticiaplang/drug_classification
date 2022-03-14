@@ -41,7 +41,7 @@ Este algoritmo é o primeiro passo para a construção de um MVP (produto mínim
 * Modelagem
   - Engenharia de atributos
   - Definição de funções 
-  - Definindo as variáveis
+  - Criando cenários
   - Testando os cenários
 * Conclusão e próximo passos
 * Referências
