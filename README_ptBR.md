@@ -54,4 +54,3 @@ Este algoritmo é o primeiro passo para a construção de um MVP (produto mínim
 * Seaborn
 * Warnings
 * Sklearn
-* Imbelarn
