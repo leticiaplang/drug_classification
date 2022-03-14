@@ -1,6 +1,6 @@
 ## Drug Classification 
 
-README traduzido para Português [aqui](https://github.com/leticiaplang/drug_classification/blob/main/README_ptBR.md)
+README traduzido para Português/BR [aqui](https://github.com/leticiaplang/drug_classification/blob/main/README_ptBR.md)
 
 ### Project structure
 * README.md
