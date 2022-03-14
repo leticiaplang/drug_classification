@@ -1,5 +1,7 @@
 ## Drug Classification
 
+README translated into English/US [here](https://github.com/leticiaplang/drug_classification/blob/main/README_ptBR.md)
+
 ### Conteúdo & acesso
 * Um projeto elaborado para fins educacionais de aplicação de modelos de classificação
 * O dataset original retirado do Kaggle
