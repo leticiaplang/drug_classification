@@ -25,7 +25,7 @@ Este algoritmo é o primeiro passo para a construção de um MVP (produto mínim
 * Buscar insigths sobre os fatores que auxiliam na escolha da droga a partir da análise exploratória dos dados (associação e correlação)
 * Construir um modelo classifcatório que utilize as features e consiga prever adequadamente a recomendação do tipo de droga para tratamento
 
-### Estrutura do Notebook (está em inglês)
+### Estrutura do Notebook (código em inglês)
 * Preparando o ambiente
   - Instalações
   - Importações
