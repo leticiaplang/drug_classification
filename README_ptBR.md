@@ -1,6 +1,6 @@
 ## Drug Classification
 
-README translated into English/US [here](https://github.com/leticiaplang/drug_classification/edit/main/README.md)
+README translated into English/US [here](https://github.com/leticiaplang/drug_classification/blob/main/README.md)
 
 ### Conteúdo & acesso
 * Um projeto elaborado para fins educacionais de aplicação de modelos de classificação
