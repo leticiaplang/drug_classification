@@ -2,6 +2,13 @@
 
 README traduzido para Português [aqui](https://github.com/leticiaplang/drug_classification/blob/main/README_ptBR.md)
 
+### Project structure
+* README.md
+* README_ptBR.md
+* drug_classification.ipynb (notebook)
+* drug_200.csv (dataset)
+
+
 ### Content & access
 * This educational project was designed for classification model construction
 * The original dataset can be find at [Kaggle](https://www.kaggle.com/prathamtripathi/drug-classification)
@@ -17,12 +24,6 @@ This algorithm is the first step to construct an MVP looking for help at secure 
 ### Goals
 * Looking for insigths about association e correlation between variables at exploratory analysis
 * Construct classification model to predict which drug is prescripted
-    
-### Project structure
-* README.md
-* README_ptBR.md
-* drug_classification.ipynb (notebook)
-* drug_200.csv (dataset)
 
 ### Notebook structure
 * Preparing the environment
