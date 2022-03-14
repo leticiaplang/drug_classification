@@ -2,6 +2,13 @@
 
 README translated into English/US [here](https://github.com/leticiaplang/drug_classification/blob/main/README.md)
 
+### Estrutura do projeto
+- README.md
+- README_ptBR.md
+- drug_classification.ipynb (notebook)
+- drug_200.csv (dataset)
+
+
 ### Conteúdo & acesso
 * Um projeto elaborado para fins educacionais de aplicação de modelos de classificação
 * O dataset original retirado do Kaggle
@@ -17,12 +24,6 @@ Este algoritmo é o primeiro passo para a construção de um MVP (produto mínim
 ### Objetivo
 * Buscar insigths sobre os fatores que auxiliam na escolha da droga a partir da análise exploratória dos dados (associação e correlação)
 * Construir um modelo classifcatório que utilize as features e consiga prever adequadamente a recomendação do tipo de droga para tratamento
-
-### Estrutura do projeto
-- README.md
-- README_ptBR.md
-- drug_classification.ipynb (notebook)
-- drug_200.csv (dataset)
 
 ### Estrutura do Notebook (está em inglês)
 * Preparando o ambiente
