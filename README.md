@@ -41,7 +41,7 @@ This algorithm is the first step to construct an MVP looking for help at secure 
 * Modeling
   - Feature engineering
   - Helper function definitions
-  - Defining the variables
+  - Creating scenarios
   - Testing scenarios
 * Conclusion & Next steps
 * References
