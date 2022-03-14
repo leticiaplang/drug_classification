@@ -2,24 +2,29 @@
 
 README traduzido para Português [aqui](https://github.com/leticiaplang/drug_classification/blob/main/README_ptBR.md)
 
-### Conteúdo & acesso
-* Um projeto elaborado para fins educacionais de aplicação de modelos de classificação
-* O dataset original retirado do [Kaggle](https://www.kaggle.com/prathamtripathi/drug-classification)
-* Para ter acesso ao notebook na íntegra:
-    - Após abrí-lo no GitHub, clique em 'abrir com o colab'
-    - Realizar a cópia por meio do Raw, salvando com formato .ipynb
-    - Realizar acesso pelo link web
+### Content & access
+* This educational project was designed for classification model construction
+* The original dataset can be find at [Kaggle](https://www.kaggle.com/prathamtripathi/drug-classification)
+* You can access the original code by:
+    - After openning it at GitHub, click on 'open in colab'
+    - Make a Raw copy and save it in .ipynb format
+    - Open it with https link
 
-### Objetivo
-* Buscar insigths sobre os fatores que auxiliam na escolha da droga a partir da análise exploratória dos dados
-* Construir um modelo classifcatório que utilize as features e consiga prever adequadamente a recomendação do tipo de droga para tratamento
+### Business problem
+One of the biggest pain at healthcare services is the medication and prescription errors. According Rayhan A. and collegue's [article](https://www.ncbi.nlm.nih.gov/books/NBK519065/) the ordering/prescribing errors include 50% of the total medications errors. It's harms not only the patient, familly and professionals, as the company, once it's esteemed an bigger cost of $40 billion each year to look after these patients.
+This algorithm is the first step to construct an MVP looking for help at secure medication presciption. After that we are going analyse dosage data and a bigger sample for better results.
+
+### Goals
+* Looking for insigths about association e correlation between variables at exploratory analysis
+* Construct classification model to predict which drug is prescripted
     
-### Estrutura do projeto
+### Project structure
 * README.md
+* README_ptBR.md
 * drug_classification.ipynb (notebook)
 * drug_200.csv (dataset)
 
-### Estrutura do Notebook
+### Notebook structure
 * Preparing the environment
   - Installs
   - Imports
@@ -39,7 +44,7 @@ README traduzido para Português [aqui](https://github.com/leticiaplang/drug_cla
 * Conclusion & Next steps
 * References
 
-### Ambiente
+### Environment
 * Python
 * Pandas
 * Numpy
