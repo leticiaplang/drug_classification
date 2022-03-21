@@ -2,14 +2,6 @@
 
 README traduzido para Português/BR [aqui](https://github.com/leticiaplang/drug_classification/blob/main/README_ptBR.md)
 
-### Project structure
-* README.md
-* README_ptBR.md
-* drug_classification.ipynb (english notebook)
-* drug_classification_pt.ipynb (portuguese notebook - english code and graphs)
-* drug_200.csv (dataset)
-
-
 ### Content & access
 * This educational project was designed for classification model construction
 * The original dataset can be find at [Kaggle](https://www.kaggle.com/prathamtripathi/drug-classification)
@@ -25,34 +17,4 @@ This algorithm is the first step to construct an MVP looking for help at secure 
 ### Goals
 * Looking for insigths about association e correlation between variables at exploratory analysis
 * Construct classification model to predict which drug is prescripted
-
-### Notebook structure
-* Preparing the environment
-  - Installs
-  - Imports
-  - Requirements
-  - Dataset import & transformation into dataframe
-* Dataframe exploration
-  - Dataframe characteristics
-  - Transformations
-* Exploratory analysis
-  - Distribution and balance
-  - Outlier analysis
-  - Business insights 
-* Modeling
-  - Feature engineering
-  - Helper function definitions
-  - Creating scenarios
-  - Testing scenarios
-* Conclusion & Next steps
-* References
-
-### Environment
-* Python
-* Pandas
-* Numpy
-* Matplotlib
-* Seaborn
-* Warnings
-* Sklearn
 
