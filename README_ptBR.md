@@ -20,7 +20,7 @@ Este algoritmo é o primeiro passo para a construção de um MVP (produto mínim
 
 ### Características do dataframe
 
-* Ele possui 200 linhas e 6 colnass
+* Ele possui 200 linhas e 6 colunas
 * Não foram identificados dados inconsistentes
 * As variáveis numéricas são: 
    - Age | idade: 15 to 74 anos
