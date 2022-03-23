@@ -22,18 +22,11 @@ This algorithm is the first step to construct an MVP looking for help at secure 
 * Target: Drug
 * Continuous features: Age and Na_to_K
 * Categorical features: Sex, BP, Cholesterol
-* 3 functions created: run scenarios, run models and create histograms
-* performance metrics: accuracy(principal), precision, recall and F1-score
 * ML models: dummy classifer(baseline), logistic regression, KNN, decision tree, random forest
+* Performance metrics: accuracy(principal), precision, recall and F1-score
 
-### Conclusion
-1. Model
-* Baseline was dummy classifer with accuracy equal to 0.5
-* Best performance was logistic regression with accuracy equal to 0.89
-* Decision tree and random forest probably with overfitting
-* It can be used as MVP
-
-2. Insights
+### Conclusions
+1. Insights
 
 Age:
 * Drug A was prescribed for younger than 50 years old
@@ -50,10 +43,17 @@ Cholesterol:
 Na to K:
 * Drug Y was prescribed for people with > 15mEq/24h
 
-Sex: Is it a irrelevant feature?
+Sex: It is a irrelevant feature
+
+2. Model
+* Baseline was dummy classifer with accuracy equal to 0.5
+* Decision tree and random forest probably with overfitting
+* Best performance was logistic regression with accuracy equal to 0.89
+* It can be used as MVP
+
 
 ### Next steps
 * Tuning the decision tree and random forest, including overfitting analysis.
-* Calculate ANOVA to analyse variable correlation or feature importance to inderstand which are more important.
+* Feature importance to understand which are more important.
 * Apply SMOTE to embalanced data.
 * As possible, insert dosage information to get greater data granularity and have more security to help treatment prescription.
