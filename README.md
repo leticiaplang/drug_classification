@@ -18,10 +18,6 @@ This algorithm is the first step to construct an MVP looking for help at secure 
 * Looking for insigths about association e correlation between variables at exploratory analysis
 * Construct classification model to predict which drug is prescripted
 
-### Exploratory method
-* Created histogram, boxplot, countplot and scatterplot
-* Calculate IQR
-
 ### Modeling method
 * Target: Drug
 * Continuous features: Age and Na_to_K
